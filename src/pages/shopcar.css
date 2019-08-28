@@ -1,0 +1,9 @@
+.pages__shopcar{margin:40px 0 50px 0;}
+.pages__shopcar h3{background:#fff;height: 40px;width: 100%;position: fixed;left: 0;top: 0;text-align: center;font: 16px/40px "";}
+.pages__shopcar ul{}
+.pages__shopcar ul li{display: flex;justify-content:space-between;align-items: center;height: 100px;padding:0 10px;border-bottom: 1px solid #eee;}
+.pages__shopcar ul li img{width: 80px;height: 80px;}
+.pages__shopcar ul li span{font-size: 16px;}
+.pages__shopcar--jiesuan{height: 50px;font-size: 14px;display: flex;justify-content: space-between;padding:0 20px;align-items: center;}
+.pages__shopcar--jiesuan input{height: 40px;width: 80px;background: chocolate;border-radius: 5px;}
+.pages__shopcar--jiesuan span{font-size: 16px;}

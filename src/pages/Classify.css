@@ -1,0 +1,10 @@
+.pages__classify{margin-bottom: 60px;}
+.pages__classify div{}
+.pages__classify h3{background:#fff;height: 40px;width: 100%;position: fixed;left: 0;top: 0;text-align: center;font: 16px/40px "";}
+.pages__classify--jujia{margin-top:40px;}
+.pages__classify p{height: 30px;width:100%;text-align: left;font:700 14px/30px "";background: lightcoral;}
+.pages__classify ul{overflow: hidden;}
+.pages__classify ul li{width:45%;height:240px;padding: 5px;float: left;}
+.pages__classify ul li img{width: 100%;height: 140px;}
+.pages__classify ul li b{display: block;height: 40px;font: 14px/20px "";}
+.pages__classify ul li span{display: block;height: 30px;font: 12px/20px "";}
